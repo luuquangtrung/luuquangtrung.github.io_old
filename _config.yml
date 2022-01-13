@@ -20,9 +20,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Quang-Trung Luu"
 description              : "Personal website"
-url                      : "https://gdurisi.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://luuquangtrung.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gdurisi/gdurisi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "luuquangtrung/luuquangtrung.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/linkedin_box.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 # twitter:
-#   username               : &giuseppe_durisi
+#   username               : &luuquangtrung
 facebook:
   username               : luugu
   app_id                 :
@@ -107,7 +107,7 @@ author:
   bio              : "Ph.D in Networking and\ Telecommunications"
   location         : "LAAS-CNRS, Toulouse, France"
   # email            : "luuquangtrung.vn@gmail.com"
-  # twitter          : "@giuseppe_durisi"
+  # twitter          : "@luuquangtrung"
   github           : "luuquangtrung"
   linkedin         : "luuquangtrung"
   orcid            : "https://orcid.org/0000-0002-3848-7825"
@@ -118,7 +118,7 @@ author:
       url: "mailto:luuquangtrung.vn@gmail.com"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/@giuseppe_durisi"
+#       url: "https://twitter.com/@luuquangtrung"
 #     - label: "Chalmers Website"
 #       icon: "fas fa-fw fa-link"
 #       url: "https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx"
