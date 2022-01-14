@@ -9,6 +9,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+{% include toc %}
+
 <!-- classes: wide -->
 <!--******************************************** -->
 
