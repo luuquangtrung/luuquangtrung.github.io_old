@@ -7,6 +7,7 @@ classes: wide
 ---
 
 Olivier Brun, Modèles et algorithmes pour l'ingéniérie de trafic, INSA Toulouse ([URL](https://homepages.laas.fr/brun/drupal/node/28))
+Language: French
 
 Topics covered:
 * Optimization theory refresher
