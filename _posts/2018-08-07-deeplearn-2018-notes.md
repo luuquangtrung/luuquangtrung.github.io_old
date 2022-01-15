@@ -4,7 +4,7 @@ date: 2018-08-07
 last_modified_at: 2016-03-09T16:20:02-05:00
 read_time: false
 categories:
-  - Blog
+  - posts
 tags:
   - deep learning
   - machine learning
