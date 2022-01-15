@@ -1,10 +1,12 @@
 ---
 title: "Notes from Genova Deep Learning Summer School 2018"
 date: 2018-08-07
-last_modified_at: 2016-03-09T16:20:02-05:00
+permalink: /posts/2018/08/genova-notes/ 
 read_time: false
 categories:
-  - posts
+  - blog
+<!-- header:
+  teaser: /images/AI.jpg -->
 tags:
   - deep learning
   - machine learning
