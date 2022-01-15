@@ -10,9 +10,9 @@ author_profile: true
 
 
 ### Research interests
-* Management of coflows in datacenters: scheduling, fairness, and resource allocation
+* Management of coflows in datacenters: scheduling and resource allocation
 * Network slicing in 5G and beyond 
-* Network function virtualization (NFV) and softwared defined networking (SDN)
+* Network function virtualization and softwared defined networking
 * Opimisation of resource allocation and provisioning
 * Quality of multimedia services, *e.g.*, adaptive video streaming
 * Modeling of integer linear program (ILP) and design of heuristics for network optimization problems
