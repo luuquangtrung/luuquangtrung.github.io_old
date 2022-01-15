@@ -6,7 +6,7 @@ Topics covered:
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
 * Lecture Notes:
-* Introduction
+  * Introduction
   * Chapter 1
   * Chapter 2
   * Chapter 3
