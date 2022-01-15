@@ -14,11 +14,11 @@ Topics covered:
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
 * Lectures:
-  * Introduction (notes, video)
-  * Chapter 1: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre1.pdf))
-  * Chapter 2
-  * Chapter 3
-  * Chapter 4
+  * Introduction ([notes]({{ site.url }}/files/teaching-resources/brun/introduction.pdf), video: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
+  * Chapter 1: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre1.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
+  * Chapter 2: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre2.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
+  * Chapter 3: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre3.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
+  * Chapter 4: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre4.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
 * Videos: Intro - S1E01 - S1E02 - S1E03 - S2E01 - S2E02 - S2E03 - S3E01 - S3E02 - S4E01 - S4E02
 * Exercices: TD1 (solution) - TD2 (solution) - TD3 (solution) - TD4 (solution) - TD5 (solution)  
 
