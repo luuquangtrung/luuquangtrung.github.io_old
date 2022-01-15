@@ -12,7 +12,7 @@ author_profile: true
 *Last updated: April 8, 2021*
 
 ### Experiences
-* Postdoctoral Researcher, [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France (Mar. 2021 - Mar. 2022)
+* Postdoctoral Fellow, [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France (Mar. 2021 - Mar. 2022)
 * Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France (Nov. 2017 - Nov. 2020)
 * Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France (Apr. 2017 - Sept. 2017)
 * Engineer, [Samsung Mobile R&D Center](https://www.samsung.com/us/), Hanoi, Vietnam (Jan. 2015 - June 2015)
