@@ -12,7 +12,7 @@ author_profile: true
 *Last updated: April 8, 2021*
 
 ### Experiences
-* Postdoctoral Researcher, [University of Avignon](https://lia.univ-avignon.fr/) and [University of Toulouse](https://www.laas.fr/public/), France (03/2021-03/2022)
+* Postdoctoral Researcher, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), France (03/2021-03/2022)
 * Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France (11/2017-11/2020)
 * Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France (04/2017-09/2017)
 * Engineer, [Samsung Mobile R&D Center](https://www.samsung.com/us/), Hanoi, Vietnam (01/2015-06/2015)
