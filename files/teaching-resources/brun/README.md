@@ -14,11 +14,9 @@ Topics covered:
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
 * Lectures:
-  * Introduction ([notes]({{ site.url }}/files/teaching-resources/brun/introduction.pdf), video: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
-  * Chapter 1: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre1.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
-  * Chapter 2: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre2.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
-  * Chapter 3: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre3.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
-  * Chapter 4: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre4.pdf), videos: [E01]({{ site.url }}/files/teaching-resources/brun/introduction.mp4))
-* Videos: Intro - S1E01 - S1E02 - S1E03 - S2E01 - S2E02 - S2E03 - S3E01 - S3E02 - S4E01 - S4E02
-* Exercices: TD1 (solution) - TD2 (solution) - TD3 (solution) - TD4 (solution) - TD5 (solution)  
-
+  * Introduction ([notes]({{ site.url }}/files/teaching-resources/brun/introduction.pdf))
+  * Chapter 1: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre1.pdf))
+  * Chapter 2: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre2.pdf))
+  * Chapter 3: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre3.pdf))
+  * Chapter 4: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre4.pdf))
+* Exercices: [TD1]({{ site.url }}/files/teaching-resources/brun/sujet-TD1-AFDX.pdf) ([solution]({{ site.url }}/files/teaching-resources/brun/corrige-TD1-AFDX.pdf)), [TD2]({{ site.url }}/files/teaching-resources/brun/sujet-TD2-FLOW_DEV.pdf) ([solution]({{ site.url }}/files/teaching-resources/brun/corrige-TD2-FLOW_DEV.pdf)), [TD3]({{ site.url }}/files/teaching-resources/brun/sujet-TD3-spanning-trees.pdf) ([solution]({{ site.url }}/files/teaching-resources/brun/corrige-TD3-spanning-trees.pdf)), [TD4]({{ site.url }}/files/teaching-resources/brun/sujet-TD4-capa-planning.pdf) ([solution]({{ site.url }}/files/teaching-resources/brun/corrige-TD4-capa-planning.pdf)), [TD5]({{ site.url }}/files/teaching-resources/brun/sujet-TD5-routage-anneau.pdf) ([solution]({{ site.url }}/files/teaching-resources/brun/corrige-TD5-routage-anneau.pdf))
