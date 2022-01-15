@@ -40,12 +40,9 @@ author_profile: true
 * International Conference on Networks (ICN): [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html), [ICN 2021](https://www.iaria.org/conferences2021/ICN21.html)
 
 #### Reviewer
-Journals
-* [IEEE Journal on Selected Areas in Communications](https://www.comsoc.org/publications/journals/ieee-jsac)
-* [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
+Journals: [IEEE Journal on Selected Areas in Communications](https://www.comsoc.org/publications/journals/ieee-jsac), [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
 
-Conferences 
-* [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html), 
+Conferences: [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html)
 
 #### Other Activities
 * 01/2022-present: volunteer as a translator for [Kính Kính Coong](https://www.facebook.com/groups/327219941478408/about), a project of translating French-Vietnamese and Vietnamese-French letters between godparents and foster children in difficult circumstances in Vietnam
