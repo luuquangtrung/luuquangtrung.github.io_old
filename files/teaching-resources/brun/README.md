@@ -14,7 +14,7 @@ Topics covered:
 * Multicommodity flow models for network planning
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
-* Lectures:
+* Lecture notes (videos are also provided in this [link](https://homepages.laas.fr/brun/drupal/node/28)):
   * Introduction ([notes]({{ site.url }}/files/teaching-resources/brun/introduction.pdf))
   * Chapter 1: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre1.pdf))
   * Chapter 2: ([notes]({{ site.url }}/files/teaching-resources/brun/chapitre2.pdf))
