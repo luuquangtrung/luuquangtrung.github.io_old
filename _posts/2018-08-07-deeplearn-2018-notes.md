@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Notes from Genova Deep Learning Summer School 2018"
 date: 2018-08-07
 permalink: /posts/2018/08/genova-notes/ 
@@ -12,7 +12,7 @@ tags:
   - machine learning
   - italy
   - summer school
----
+--- -->
 
 The following are my notes from the [Deep Learning Summer School 2018](http://irdta.eu/deeplearn2018/) in Genova, Italy, 2018. 
 
