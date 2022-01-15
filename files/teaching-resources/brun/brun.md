@@ -13,8 +13,8 @@ Topics covered:
 * Multicommodity flow models for network planning
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
-* Lecture notes:
-  * Introduction
+* Lectures:
+  * Introduction (notes, video)
   * Chapter 1
   * Chapter 2
   * Chapter 3
