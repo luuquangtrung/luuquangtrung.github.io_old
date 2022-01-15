@@ -1,44 +1,18 @@
 main:
   - title: "vitae"
     url: /vitae/
-#   - title: "news"
-#     url: /news/
+  # - title: "news"
+  #   url: /news/
   - title: "research"
     url: /research/
   - title: "publications"
     url: /publications/
-  - title: "activities"
-    url: /activities/
-  - title: "posts"
-    url: /posts/
+  - title: "teaching"
+    url: /teaching/ 
+  - title: "blog"
+    url: /year-archive/
   - title: "misc"
-    url: /misc/ 
-#   - title: "tags"
-#     url: /tags/
+    url: /misc/
+  #- title: "tags"
+  #  url: /tags/
 
-
-# # main links links
-# main:
-#   - title: "CV"
-#     url: /cv/
-    
-#   - title: "News"
-#     url: /news/
-  
-#   - title: "Publications"
-#     url: /publications/
-    
-#   - title: "Vacancies"
-#     url: /vacancies/
-
-#   - title: "Team"
-#     url: /team/
-  
-#   - title: "Blog"
-#     url: /year-archive/
-
-#   - title: "Teaching"
-#     url: /teaching/  
-      
-# - title: "Guide"
-#   url: /markdown/
