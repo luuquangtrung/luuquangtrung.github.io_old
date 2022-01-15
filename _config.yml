@@ -20,9 +20,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Quang-Trung Luu"
 description              : "Personal website"
-url                      : "https://gdurisi.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://luuquangtrung.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gdurisi/gdurisi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "luuquangtrung/luuquangtrung.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/linkedin_box.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
