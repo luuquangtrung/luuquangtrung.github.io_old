@@ -13,4 +13,4 @@ classes: wide
 * [G10](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms): Digital Communications, *Master 2 in Networking and Telecoms* (2020-2021), 16h TD + 8h TP, courses given in French.
 
 #### Resources
-* Olivier Brun, Modèles et algorithmes pour l'ingéniérie de trafic, [Lecture notes & videos](https://luuquangtrung.github.io/teaching//resources/brun/), INSA Toulouse
+* Olivier Brun, Modèles et algorithmes pour l'ingéniérie de trafic, [Lecture notes & videos](https://luuquangtrung.github.io/teaching/resources/brun/), INSA Toulouse
