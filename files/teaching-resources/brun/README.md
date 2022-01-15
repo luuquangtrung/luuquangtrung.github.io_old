@@ -15,7 +15,7 @@ Topics covered:
 * Internet traffic enginering by optimizing OSPF weights
 * Lectures:
   * Introduction (notes, video)
-  * Chapter 1
+  * Chapter 1: ([notes](luuquangtrung.github.io/files/teaching-resources/brun/chapitre1.pdf)
   * Chapter 2
   * Chapter 3
   * Chapter 4
