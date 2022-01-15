@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Modèles et algorithmes pour l'ingéniérie de trafic"
 permalink: /teaching/resources/brun/
 author_profile: true
 classes: wide
@@ -13,7 +13,7 @@ Topics covered:
 * Multicommodity flow models for network planning
 * Optimal multi-path routing: feasible direction methods, flow-deviation, projected gradient
 * Internet traffic enginering by optimizing OSPF weights
-* Lecture Notes:
+* Lecture notes:
   * Introduction
   * Chapter 1
   * Chapter 2
