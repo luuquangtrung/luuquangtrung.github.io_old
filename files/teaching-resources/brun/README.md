@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-O. Brun, Modèles et algorithmes pour l'ingéniérie de trafic, INSA Toulouse ([URL](https://homepages.laas.fr/brun/drupal/node/28))
+O. Brun, Modèles et algorithmes pour l'ingéniérie de trafic, INSA Toulouse ([URL](https://homepages.laas.fr/brun/drupal/node/28))\
 Language: French
 
 Topics covered:
