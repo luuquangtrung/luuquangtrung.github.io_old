@@ -15,6 +15,10 @@ author_profile: true
 
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 
+### Preprints
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022.
+
+
 ### Patents
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," *US Patent App. 17/299,138*, filed December 07, 2018 and issued December 16, 2021 (URL: [Google Patents](https://patents.google.com/patent/US20210392040A1/en))
 
@@ -24,7 +28,6 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Coverage-Aware Resource Provisioning Method for Network Slicing," in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020. (URLs: [IEEEXplore](https://ieeexplore.ieee.org/document/9187556/), [arXiv](https://arxiv.org/abs/1907.09211v3))
 
 ### Conference and workshop papers
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks,” *submitted to  [IEEE International Conference on Communications (ICC)](https://icc2022.ieee-icc.org/)*, Seoul, May 2022.
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "Foresighted Resource Provisioning for Network Slicing," in [*IEEE International Conference on High Performance Switching and Routing (HPSR)*](https://hpsr2021.ieee-hpsr.org/), Paris, June 2021 (invited paper, to appear).
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Radio Resource Provisioning for Network Slicing with Coverage Constraints," in [*Proc. IEEE International Conference on Communications (ICC)*](https://icc2020.ieee-icc.org/), Dublin, Ireland, pp. 1-6, June, 2020 (URLs: [IEEEXplore](https://ieeexplore.ieee.org/document/9148897), [ResearchGate](https://www.researchgate.net/publication/339953472_Radio_Resource_Provisioning_for_Network_Slicing_with_Coverage_Constraints)).
 1. **Q.-T. Luu**, M. Kieffer, A. Mouradian, and S. Kerboeuf, "Aggregated Resource Provisioning for Network Slices," in [*Proc. IEEE Global Communications Conference (GLOBECOM)*](http://globecom2018.ieee-globecom.org/), Abu Dhabi, UAE, pp. 1-6, Dec. 2018 (URLs: [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/8648039), [ResearchGate](https://www.researchgate.net/publication/326572089_Aggregated_Resource_Provisioning_for_Network_Slices))
