@@ -20,7 +20,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 
 ### Patents
-1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," *US Patent App. 17/299,138*, filed December 07, 2018 and issued December 16, 2021 (URL: [Google Patents](https://patents.google.com/patent/US20210392040A1/en))
+1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," *US Patent 17,299,138*, filed December 07, 2018 and issued December 16, 2021 (URL: [Google Patents](https://patents.google.com/patent/US20210392040A1/en))
 
 ### Journal papers
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties," *submitted to IEEE Transactions on Network and Service Management*, 2021 **(minor revision)**
