@@ -51,6 +51,6 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 1. N. Perrot, M. Antonia, S. Kerboeuf, **Q.-T. Luu**, *et al*., "Virtual Network Orchestration Framework and Algorithms," [*ANR MAESTRO-5G Project*](https://maestro5g.roc.cnam.fr/) *Deliverable D3.1*, 2020.
 
 ### Theses
-* Q.-T. Luu, Dynamic Control and Optimization of Wireless Virtual Network, *Ph.D Thesis*, [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2021.
+* Q.-T. Luu, Dynamic Control and Optimization of Wireless Virtual Network, *Ph.D Thesis*, [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2021 ([slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)).
 * Q.-T. Luu, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2017.
 * Q.-T. Luu, Wireless Power Transfer for Implantable Medical Devices, *M.Sc Thesis*, University of Paris-Sud (now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), 2016.
