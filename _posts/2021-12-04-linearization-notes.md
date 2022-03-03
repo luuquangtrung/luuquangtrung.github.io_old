@@ -18,9 +18,9 @@ A product term $x_ix_j$, where $x_i,x_j \in \{0,1\}$ occuring in a linear progra
 
 $$
 \begin{align*}
-y_{ij} & \leq x_{i}\\
-y_{ij} & \leq x_{j}\\
-y_{ij} & \geq x_{i}+x_{j}-1
+y_{ij} & \leq x_{i}, \\
+y_{ij} & \leq x_{j}, \\
+y_{ij} & \geq x_{i} + x_{j} - 1.
 \end{align*}
 $$
 
