@@ -25,4 +25,4 @@ y_{ij}\geq & x_{i}+x_{j}-1
 $$
 
 ## References
-[Liberti2018] L. Liberti, Mathematical Programming, *Lecture Notes*, Ecole Polytechnique, 2018.
+[Fortet1960] R. Fortet. Applications de l’algèbre de Boole en recherche opérationelle. *Revue Française de Recherche Opérationelle*, 4:17–26, 1960.
