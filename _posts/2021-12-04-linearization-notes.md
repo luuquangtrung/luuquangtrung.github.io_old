@@ -14,7 +14,7 @@ tags:
 
 
 ## Product of two variables
-A product term $x_ix_j$, where $x_i,x_j \in {0,1}$ occuring in a linear program can be replaced by an auxiliary continuous variable $y_{ij} \in [0,1]$ and the following so-called Fortet' constraints: [Fortet1960]:
+A product term $x_ix_j$, where $x_i,x_j \in \\{0,1\\}$ occuring in a linear program can be replaced by an auxiliary continuous variable $y_{ij} \in [0,1]$ and the following so-called Fortet' constraints: [Fortet1960]:
 
 $$
 \begin{align*}
