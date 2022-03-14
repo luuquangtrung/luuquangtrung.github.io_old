@@ -7,4 +7,4 @@ generate a resource graph comprising nodes representing infrastructure resources
 transmit the resource graph to an infrastructure manager for mapping a topology of said network infrastructure onto said resource graph and determining at least one subset of said network infrastructure; and, receive a mapping result from said infrastructure manager containing said at least one subset of said network infrastructure.
 
 
-![GB2591973_Certificate-of-grant-of-patent](/../files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg)
+![GB2591973_Certificate-of-grant-of-patent](/../../files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg)
