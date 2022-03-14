@@ -26,7 +26,7 @@ E-mails:
 
 ## Recent news
 
-* Mar. 11, 2022: Our paper "*"Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties*" has been accepted to [IEEE Transactions on Network and Service Management]().
+* Mar. 11, 2022: Our paper "*Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties*" has been accepted to [IEEE Transactions on Network and Service Management]().
 * Feb. 16, 2022: Our patent "<em>Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee</em>" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US20210392040A1/en)) has been granted by the UK Patent Office.
 * Jan. 13, 2021: I did a short [interview with VOV World](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/mang-di-dong-5g-co-hoi-phat-trien-cong-nghiep-vien-thong-tai-viet-nam-938761.vov) (The Voice of Vietnam) on recent development of 5G networks.
 * Dec. 29, 2020: Our paper "*Uncertainty-Aware Resource Provisioning for Network Slicing*" has been accepted to [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/document/9351563").
