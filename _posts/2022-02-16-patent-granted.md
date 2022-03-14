@@ -1,3 +1,17 @@
+---
+title: "Patent GB2591973 has been granted"
+date: 2022-02-16
+permalink: /posts/2022/02/patent-GB2591973-granted/ 
+read_time: false
+categories:
+  - blog
+header:
+  teaser: /files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg
+tags:
+  - patent
+  - certificate of grant
+---
+
 Our patent “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee” with Nokia Bell Labs (available at Google Patents) has been granted by the UK Patent Office.
 
 **Abstract**
