@@ -35,6 +35,38 @@ where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\time
 ## Some linearization techniques
 Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.
 
+##### Max-min functions
+The term $$X = \max\{x_{1}, x_{2}\}$$ can be linearized by introducing an additional binary decision variable $$y$$ and using the so-called big-$$M$$ method.
+
+The following constraints enforce the definition of $$X$$ and $$y$$[^SE_max]:
+
+$$
+\begin{align*}
+X & \geq x_{1}, \\
+X & \geq x_{2}, \\
+X & \leq x_{1} + M(1 - y), \\
+X & \leq x_{2} + My.
+\end{align*}
+$$   
+
+Similarly, the term $$X = \min\{x_{1}, x_{2}\}$$ can be linearized as follows[^SE_min]
+
+$$
+\begin{align*}
+X & \leq x_{1}, \\
+X & \leq x_{2}, \\
+X & \geq x_{1} - M(1 - y), \\
+X & \geq x_{2} - My.
+\end{align*}
+$$ 
+
+The value of $$M$$ has to be carefully chosen. See more [here](https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d).
+
+[^SE_max]: StackExchange, [*How to formulate (linearize) a maximum function in a constraint?*](https://or.stackexchange.com/questions/711/how-to-formulate-linearize-a-maximum-function-in-a-constraint/712#712). Accessed Feb. 2022
+
+[^SE_min]: StackExchange, [*How to linearize min function as a constraint?*](https://or.stackexchange.com/questions/1160/how-to-linearize-min-function-as-a-constraint). Accessed Feb. 2022
+
+
 ##### Rounding functions: Ceil and Floor
 
 A floor function $$y = \lfloor x \rfloor$$ can be linearized as[^SE_round]
@@ -60,13 +92,13 @@ $$
 
 
 ##### Product of two binary variables
-A product term $$xy$$, where $$x,y \in \{0,1\}$$ occuring in a linear program can be replaced by an auxiliary continuous variable $$z \in [0,1]$$ and the following so-called Fortet' constraints[^Fortet1960]:
+A product term $$x_{1}x_{2}$$, where $$x_{1}, x_{2} \in \{0,1\}$$ occuring in a linear program can be replaced by an auxiliary continuous variable $$y \in [0,1]$$ and the following so-called Fortet' constraints[^Fortet1960]:
 
 $$
 \begin{align*}
-z & \leq x, \\
-z & \leq y, \\
-z & \geq x + y - 1.
+y & \leq x_{1}, \\
+y & \leq x_{2}, \\
+y & \geq x_{1} + x_{2} - 1.
 \end{align*}
 $$
 
@@ -74,12 +106,12 @@ $$
 
 
 ##### Product of multiple binary variables
-The above technique could also be extended to the product of multiple variables: $$z_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^2]
+The above technique could also be extended to the product of multiple variables: $$y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^2]
 
 $$
 \begin{align*}
-z_{\mathcal{I}} & \leq x_{i}, \quad \forall i \in \mathcal{I}, \\
-z_{\mathcal{I}} & \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
+y_{\mathcal{I}} & \leq x_{i}, \quad \forall i \in \mathcal{I}, \\
+y_{\mathcal{I}} & \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
 \end{align*}
 $$
 
@@ -94,13 +126,13 @@ y & \text{if }x=1.
 \end{cases}
 $$
 
-$$z$$ can be linearized by using the so-called big-$$M$$ method[^SE_prod],
+$$z$$ can be linearized by using the big-$$M$$ method[^SE_prod],
 
 $$
 z \geq y - (1-x)M,
 $$
 
-where $$z \in \mathbb{R_+}$$ is a continuous variable, $$M$$ is a sufficiently large value so that it would not be part of any feasible solution.
+where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it would not be part of any feasible solution.
 
 
 
