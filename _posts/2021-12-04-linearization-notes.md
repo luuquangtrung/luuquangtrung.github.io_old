@@ -56,8 +56,7 @@ $$
 \end{align*}
 $$
 
-[^SE_round]: 
-https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions
+[^SE_round]: StackExchange, [*Linear program with ceiling or floor functions*](https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions). Accessed Feb. 2022.
 
 
 ##### Product of two binary variables
@@ -103,7 +102,9 @@ $$
 
 where $$z \in \mathbb{R_+}$$ is a continuous variable, $$M$$ is a sufficiently large value so that it would not be part of any feasible solution.
 
-[^SE_prod]: https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable
+
+
+[^SE_prod]: : StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Feb. 2022.
 
 ### References
 
