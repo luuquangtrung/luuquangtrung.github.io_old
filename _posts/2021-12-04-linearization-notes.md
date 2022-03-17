@@ -62,9 +62,9 @@ $$
 
 The value of $$M$$ has to be carefully chosen. See more [here](https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d).
 
-[^SE_max]: StackExchange, [*How to formulate (linearize) a maximum function in a constraint?*](https://or.stackexchange.com/questions/711/how-to-formulate-linearize-a-maximum-function-in-a-constraint/712#712). Accessed Feb. 2022
+[^SE_max]: StackExchange, [*How to formulate (linearize) a maximum function in a constraint?*](https://or.stackexchange.com/questions/711/how-to-formulate-linearize-a-maximum-function-in-a-constraint/712#712). Accessed Dec. 2021.
 
-[^SE_min]: StackExchange, [*How to linearize min function as a constraint?*](https://or.stackexchange.com/questions/1160/how-to-linearize-min-function-as-a-constraint). Accessed Feb. 2022
+[^SE_min]: StackExchange, [*How to linearize min function as a constraint?*](https://or.stackexchange.com/questions/1160/how-to-linearize-min-function-as-a-constraint). Accessed Dec. 2021.
 
 
 ##### Rounding functions: Ceil and Floor
@@ -88,7 +88,7 @@ $$
 \end{align*}
 $$
 
-[^SE_round]: StackExchange, [*Linear program with ceiling or floor functions*](https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions). Accessed Feb. 2022.
+[^SE_round]: StackExchange, [*Linear program with ceiling or floor functions*](https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions). Accessed Dec. 2021.
 
 
 ##### Product of two binary variables
@@ -136,7 +136,7 @@ where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it wou
 
 
 
-[^SE_prod]: StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Feb. 2022.
+[^SE_prod]: StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Dec. 2021.
 
 ### References
 
