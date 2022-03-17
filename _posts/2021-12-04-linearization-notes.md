@@ -1,5 +1,6 @@
 ---
 title: "Some linearization techniques in linear programming"
+layout: single
 date: 2021-12-04
 permalink: /posts/2021/12/notes-linearization/ 
 read_time: false
