@@ -32,7 +32,7 @@ where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\time
 ## Some linearization techniques
 Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.
 
-### Product of two binary variables
+#### Product of two binary variables
 A product term $$xy$$, where $$x,y \in \{0,1\}$$ occuring in a linear program can be replaced by an auxiliary continuous variable $$z \in [0,1]$$ and the following so-called Fortet' constraints [Fortet1960] [^2]:
 
 $$
@@ -43,7 +43,7 @@ z & \geq x + y - 1.
 \end{align*}
 $$
 
-### Product of multiple binary variables
+#### Product of multiple binary variables
 The above technique could also be extended to the product of multiple variables: $$z_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^2]
 
 $$
@@ -53,7 +53,7 @@ z_{\mathcal{I}} & \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
 \end{align*}
 $$
 
-### Product of a binary and a non-negative continuous variable
+#### Product of a binary and a non-negative continuous variable
 
 Suppose we have a binary variable $$x \in \{0,1\}$$ and a non-negative continuous variable $$y \in \mathbb{R_+}$$. The product $$z = xy$$ is thus
 
