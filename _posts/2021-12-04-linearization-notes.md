@@ -7,7 +7,7 @@ read_time: false
 categories:
   - blog
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Linear_optimization_in_a_2-dimensional_polytope.svg/1024px-Linear_optimization_in_a_2-dimensional_polytope.svg.png
+  teaser: /files/post_materials/lp.png
 tags:
   - linearization
   - linear program
