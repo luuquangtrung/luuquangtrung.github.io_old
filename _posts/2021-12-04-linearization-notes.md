@@ -104,7 +104,7 @@ where $$z \in \mathbb{R_+}$$ is a continuous variable, $$M$$ is a sufficiently l
 
 
 
-[^SE_prod]: : StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Feb. 2022.
+[^SE_prod]: StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Feb. 2022.
 
 ### References
 
