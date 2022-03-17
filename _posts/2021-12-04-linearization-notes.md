@@ -74,3 +74,5 @@ where $$z \in \mathbb{R_+}$$ is a continuous variable, $$M$$ is a sufficiently l
 
 [^3]: https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable
 
+### References
+
