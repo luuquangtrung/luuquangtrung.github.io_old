@@ -25,8 +25,9 @@ $$
 
 where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\times}n$$-matrix of coefficients. LP has been shown to be fell into the computational complexity class *P*[^2]. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be *NP*-hard[^2].  
 
-## MILP solvers
-The most common used tools to solve MILP instances are: IBM-ILOG CPLEX[^3], MATLAB (intlinprog)[^4], and gurobi[^5]. 
+[^1]: G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. Pacific Journal of Mathematics, 5(2):183–196, 1955.
+
+[^2]: [Fortet1960] R. Fortet. Applications de l’algèbre de Boole en recherche opérationelle. *Revue Française de Recherche Opérationelle*, 4:17–26, 1960.
 
 ## Some linearization techniques
 Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.
@@ -63,7 +64,7 @@ y & \text{if }x=1.
 \end{cases}
 $$
 
-$$z$$ can be linearized by using the so-called big-$$M$$ method[^6],
+$$z$$ can be linearized by using the so-called big-$$M$$ method[^3],
 
 $$
 z \geq y - (1-x)M,
@@ -71,17 +72,5 @@ $$
 
 where $$z \in \mathbb{R_+}$$ is a continuous variable, $$M$$ is a sufficiently large value so that it would not be part of any feasible solution.
 
-
-## References
-[^1]: G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. Pacific Journal of Mathematics, 5(2):183–196, 1955.
-
-[^2]: [Fortet1960] R. Fortet. Applications de l’algèbre de Boole en recherche opérationelle. *Revue Française de Recherche Opérationelle*, 4:17–26, 1960.
-
-[^3]: https://www.ibm.com/fr-fr/products/ilog-cplex-optimization-studio
-
-[^4]: https://mathworks.com/help/optim/ug/intlinprog.html
-
-[^5]: https://www.gurobi.com/
-
-[^6]: https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable
+[^3]: https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable
 
