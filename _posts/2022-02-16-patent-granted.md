@@ -12,7 +12,11 @@ tags:
   - certificate of grant
 ---
 
-Our patent “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee” with Nokia Bell Labs (available at Google Patents) has been granted by the UK Patent Office.
+Our patent “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee” with Nokia Bell Labs has been granted by the UK Patent Office.
+
+**Reference**
+
+S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," *US Patent 17,299,138*, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office (URL: [Google Patents](https://patents.google.com/patent/US20210392040A1/en))
 
 **Abstract**
 
