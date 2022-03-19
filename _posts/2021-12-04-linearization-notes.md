@@ -27,7 +27,7 @@ $$
 where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\times}n$$-matrix of coefficients. LP has been shown[^Liberti2018] to be fell into the computational complexity class **P**. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be **NP**-hard[^Liberti2018].  
 
 
-[^Dantzig1955]: G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. Pacific Journal of Mathematics, 5(2):183–196, 1955.
+[^Dantzig1955]: G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. *Pacific Journal of Mathematics*, 5(2):183–196, 1955.
 
 [^Liberti2018]: L. Liberti, Mathematical Programming. *Lecture Notes*, Ecole Polytechnique, 2018.
 
