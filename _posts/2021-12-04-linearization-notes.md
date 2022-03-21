@@ -106,7 +106,7 @@ $$
 
 
 ##### Product of multiple binary variables
-The above technique could also be extended to the product of multiple variables: $$y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^Fortet1960]
+The above technique could also be extended to the product of multiple variables: $$y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^Liberti2018]
 
 $$
 \begin{align*}
