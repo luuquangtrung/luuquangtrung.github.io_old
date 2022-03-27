@@ -23,7 +23,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US20210392040A1/en)," *US Patent 17,299,138*, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office.
 
 ### Journal papers
-1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," *IEEE Transactions on Network and Service Management*, Mar. 2022 ([arXiv](https://arxiv.org/abs/2203.09367)).
+1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," *IEEE Transactions on Network and Service Management*, Mar. 2022 (arXiv: [2203.09367](https://arxiv.org/abs/2203.09367)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Uncertainty-Aware Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9351563)," in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021 
 (arXiv: [2006.01104](https://arxiv.org/abs/2006.01104), 
