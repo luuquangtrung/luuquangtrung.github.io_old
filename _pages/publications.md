@@ -72,6 +72,6 @@ hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-0309700
 ### Theses
 * Q.-T. Luu, [Dynamic Control and Optimization of Wireless Virtual Network](https://hal.archives-ouvertes.fr/tel-03351942), *Ph.D Thesis*, [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2021 ([slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)).
 
-* Q.-T. Luu, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2017.
+* Q.-T. Luu, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2017.
 
 * Q.-T. Luu, Wireless Power Transfer for Implantable Medical Devices, *M.Sc Thesis*, University of Paris-Sud (now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), 2016.
