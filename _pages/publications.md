@@ -34,7 +34,7 @@ hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308)).
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)).
 
 ### Conference and workshop papers
-1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp/ 1-8, June 2021 
+1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 
 (hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "[Radio Resource Provisioning for Network Slicing with Coverage Constraints](https://ieeexplore.ieee.org/document/9148897)," in *Proc. IEEE International Conference on Communications (ICC)*, Dublin, Ireland, pp. 1-6, June, 2020 
