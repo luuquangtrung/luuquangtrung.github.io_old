@@ -99,19 +99,44 @@ analytics:
     tracking_id          : UA-120507597-1 #
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Quang-Trung Luu"
   avatar           : "/images/trung_square.jpg" # trung_circle_mini.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D in Networking and Telecommunications"
   location         : "LAAS-CNRS, Toulouse, France"
-  # email            : "luuquangtrung.vn@gmail.com"
-  # twitter          : "@lqt"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
+  email            :
+  researchgate     : https://www.researchgate.net/profile/Quang-Trung-Luu
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
   github           : "luuquangtrung"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
   linkedin         : "luuquangtrung"
   orcid            : "https://orcid.org/0000-0002-3848-7825"
-  googlescholar    : "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
+  wikipedia        :
+  wordpress        : 
 #   links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
