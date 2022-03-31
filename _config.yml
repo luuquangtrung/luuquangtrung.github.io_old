@@ -109,7 +109,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
   email            :
-  researchgate     : https://www.researchgate.net/profile/Quang-Trung-Luu
+  researchgate     : "https://www.researchgate.net/profile/Quang-Trung-Luu"
   uri              :
   bitbucket        :
   codepen          :
@@ -137,28 +137,34 @@ author:
   youtube          : 
   wikipedia        :
   wordpress        : 
-#   links:
+  links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       url: "mailto:luuquangtrung.vn@gmail.com"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/@giuseppe_durisi"
-#     - label: "Chalmers Website"
+#       url: "https://twitter.com/@lqt"
+#     - label: "Website"
 #       icon: "fas fa-fw fa-link"
-#       url: "https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx"
-#     - label: "Google scholar"
-#       icon: "fab fa-tw fa-google"
-#       url: "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
+#       url: ""
+    - label: "Google Scholar"
+      icon: "fab fa-tw fa-google"
+      url: "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
 #     - label: "arXiv"
 #       icon: "fas fa-tw fa-book"
-#       url: "https://arxiv.org/a/durisi_g_1.html"
+#       url: "https://arxiv.org/lqt.html"
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       url: "https://facebook.com/luugu"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/luuquangtrung"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/luuquangtrung"
+    - label: "Orcid"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-3848-7825"
+     - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Quang-Trung-Luu"    
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       # url: "https://instagram.com/"
