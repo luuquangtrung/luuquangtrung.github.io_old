@@ -105,57 +105,10 @@ author:
   avatar           : "/images/trung_square.jpg" # trung_circle_mini.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D in Networking and Telecommunications"
   location         : "LAAS-CNRS, Toulouse, France"
-  employer         : 
-  pubmed           : 
-  googlescholar    : "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Quang-Trung-Luu"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : "luuquangtrung"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         : "luuquangtrung"
-  orcid            : "https://orcid.org/0000-0002-3848-7825"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : 
-  wikipedia        :
-  wordpress        : 
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:luuquangtrung.vn@gmail.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/@lqt"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: ""
     - label: "Google Scholar"
       icon: "fab fa-tw fa-google"
       url: "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
-#     - label: "arXiv"
-#       icon: "fas fa-tw fa-book"
-#       url: "https://arxiv.org/lqt.html"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       url: "https://facebook.com/luugu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luuquangtrung"
@@ -164,7 +117,16 @@ author:
       url: "https://orcid.org/0000-0002-3848-7825"
      - label: "ResearchGate"
       icon: "fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Quang-Trung-Luu"    
+      url: "https://www.researchgate.net/profile/Quang-Trung-Luu"  
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:luuquangtrung.vn@gmail.com"
+#     - label: "arXiv"
+#       icon: "fas fa-tw fa-book"
+#       url: "https://arxiv.org/lqt.html"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://facebook.com/luugu"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       # url: "https://instagram.com/"
