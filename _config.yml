@@ -105,6 +105,12 @@ author:
   avatar           : "/images/trung_square.jpg" # trung_circle_mini.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D in Networking and Telecommunications"
   location         : "LAAS-CNRS, Toulouse, France"
+  email            : "luuquangtrung@gmail.com"
+  # twitter          : "@lqt"
+  github           : "luuquangtrung"
+  linkedin         : "luuquangtrung"
+  orcid            : "https://orcid.org/0000-0002-3848-7825"
+  googlescholar    : "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
   links:
     - label: "Google Scholar"
       icon: "fab fa-tw fa-google"
