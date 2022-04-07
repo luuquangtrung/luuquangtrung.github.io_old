@@ -121,7 +121,7 @@ author:
     - label: "Orcid"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-3848-7825"
-     - label: "ResearchGate"
+    - label: "ResearchGate"
       icon: "fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Quang-Trung-Luu"  
 #     - label: "Email"
