@@ -15,8 +15,8 @@ author_profile: true
 
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 
-### Preprints
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022.
+<!-- ### Preprints
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022. -->
 
 
 ### Patents
@@ -34,6 +34,8 @@ hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308)).
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)).
 
 ### Conference and workshop papers
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (to appear).
+
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 
 (hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)).
 
