@@ -9,6 +9,8 @@ main:
     url: /publications/
   - title: "teaching"
     url: /teaching/ 
+  - title: "activities"
+    url: /activities/
   - title: "blog"
     url: /year-archive/
   - title: "misc"
