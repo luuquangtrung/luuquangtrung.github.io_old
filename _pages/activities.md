@@ -1,3 +1,13 @@
+---
+layout: single
+toc: true
+toc_label: "Vitae"
+toc_icon: "book"
+title: "Activities"
+permalink: /activities/
+author_profile: true
+---
+
 ### Activities
 #### Technical Program Committee Member
 * Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel): [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr)
