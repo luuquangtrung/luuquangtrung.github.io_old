@@ -14,15 +14,15 @@ author_profile: true
  
 ### Top-tier telecom and networking journals
 * Journals:
- * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
- * IEEE Transactions: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
+  * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
+  * IEEE Transactions: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
  [Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5497975), 
  [Cloud Computing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), 
  [Network and Service Management](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), 
  [Multimedia](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), 
  [Vehicular Technologies](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4356907) 
- * [IEEE Journal on Selected Areas in Communications](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) 
- * [IEEE Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593426) 
+  * [IEEE Journal on Selected Areas in Communications](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) 
+  * [IEEE Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593426) 
 * Letters: [IEEE Wireless Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6065724),
 [IEEE Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5534602) 
 * Magazines: [IEEE Communications Magazine](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593423),
