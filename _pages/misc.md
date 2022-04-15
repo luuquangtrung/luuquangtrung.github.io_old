@@ -14,13 +14,13 @@ author_profile: true
  
 ### Top-tier telecom and networking journals
 * Journals:
-  * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
   * IEEE Transactions: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
  [Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5497975), 
  [Cloud Computing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), 
  [Network and Service Management](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), 
  [Multimedia](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), 
- [Vehicular Technologies](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4356907) 
+ [Vehicular Technologies](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4356907), [Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)  
+  * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
   * [IEEE Journal on Selected Areas in Communications](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) 
   * [IEEE Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593426) 
 * Letters: [IEEE Wireless Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6065724),
@@ -28,7 +28,7 @@ author_profile: true
 * Magazines: [IEEE Communications Magazine](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593423),
 [IEEE Network](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593428), 
 [IEEE Spectrum](https://spectrum.ieee.org/) 
-* [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
+* Surveys: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
 * ScienceDirect: [Computer Networks](http://www.sciencedirect.com/science/journal/aip/13891286), 
 [Ad Hoc Networks](http://www.sciencedirect.com/science/journal/15708705?sdc=1)
 
