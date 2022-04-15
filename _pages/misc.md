@@ -8,9 +8,6 @@ title: "Miscellaneous"
 author_profile: true
 ---
 
-
-### Forthcoming events 
-* [IEEE International Conference on High Performance Switching and Routing (HPSR)](https://hpsr2021.ieee-hpsr.org/), Paris, France, June 2021
  
 ### Top-tier telecom and networking journals
 * Journals:
