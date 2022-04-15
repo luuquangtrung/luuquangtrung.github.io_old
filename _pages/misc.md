@@ -14,7 +14,7 @@ author_profile: true
  
 ### Top-tier telecom and networking journals
 * Journals:
- * IEEE/ACM Transactions: [Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
+ * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
  * IEEE Transactions: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
  [Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5497975), 
  [Cloud Computing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), 
