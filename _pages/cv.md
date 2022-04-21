@@ -9,9 +9,9 @@ author_profile: true
 ---
 
 
-*Last updated: Jan. 15, 2022*
+*Last updated: Apr. 21, 2022*
 
-<!-- Curriculum vitae [[.pdf]({{ site.url }}/files/cv-giuseppedurisi.pdf)] -->
+Curriculum vitae: [[en]({{ site.url }}/files/misc/luu_cv_en.pdf)], [[fr]({{ site.url }}/files/misc/luu_cv_fr.pdf)] (as of Apr. 21, 2022)
 
 ### Experiences
 * Postdoctoral Fellow, [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France (Mar. 2021 - Mar. 2022)
