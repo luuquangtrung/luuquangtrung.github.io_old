@@ -34,7 +34,7 @@ hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308)).
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)).
 
 ### Conference and workshop papers
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (to appear).
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010), arxiv: [arXiv:2205.01229v1](https://arxiv.org/abs/2205.01229)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 
 (hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)).
