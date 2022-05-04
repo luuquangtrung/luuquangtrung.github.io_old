@@ -25,7 +25,7 @@ E-mails:
 &nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
 
 ## Recent news
-* Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/).
+* Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/) (pdf available in [arxiv](https://arxiv.org/abs/2205.01229)).
 * Mar. 11, 2022: Our paper "*Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties*" has been accepted to [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/abstract/document/9737314).
 * Feb. 16, 2022: Our patent "<em>Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee</em>" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US20210392040A1/en)) has been granted by the UK Patent Office.
 * Jan. 13, 2021: I did a short [interview with VOV World](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/mang-di-dong-5g-co-hoi-phat-trien-cong-nghiep-vien-thong-tai-viet-nam-938761.vov) (The Voice of Vietnam) on recent development of 5G networks.
