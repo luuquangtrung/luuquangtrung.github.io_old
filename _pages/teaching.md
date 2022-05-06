@@ -19,7 +19,8 @@ classes: wide
 
 
 #### Resources
-##### Courses
+###### Courses
+* L. Daniel and K. Narayanan, [Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/), Univ. of Helsinki.
 * O. Brun, [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
 * O. Brun, [Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
 * Z. Han, [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/), Univ. of Houston.
