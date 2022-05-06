@@ -23,7 +23,7 @@ classes: wide
 * O. Brun, [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
 * O. Brun, [Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
 * Z. Han, [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/), Univ. of Houston.
-* Z. Han, [Selective Topics on Optimization (convex/nonlinear/dynamic/sparse opt., stochastic/integer programming, game theory, ML)](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
+* Z. Han, [Selective Topics on Optimization \(convex/nonlinear/dynamic/sparse opt., stochastic/integer programming, game theory, ML\)](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
 * A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
 * S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
 * E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
