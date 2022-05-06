@@ -28,7 +28,7 @@ classes: wide
 * S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
 * E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
 * S. Boyd and L. Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stanford University.
-* S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/ boyd/vmls/), Stanford University.
+* S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/ boyd/vmls), Stanford University.
 
 
 
