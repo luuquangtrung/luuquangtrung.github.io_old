@@ -32,13 +32,7 @@ author_profile: true
 
 ### Useful links
 * [Academic Gates](https://www.academicgates.com/)
-* [Nokia Bell Labs](https://www.bell-labs.com/) 
-* [Laboratoire Informatique d’Avignon (LIA)](https://lia.univ-avignon.fr/), University of Avignon, France
-* [Laboratoire d'Analyse et d'Architectures des Systèmes (LAAS)](https://www.laas.fr/public/), University of Toulouse, France
-* [Laboratoire des Signaux et Systèmes (L2S)](http://www.l2s.centralesupelec.fr/), CentraleSupélec - University of Paris-Saclay, France
-* [Laboratoire Traitement et Communication de l'Information (LTCI)](https://ltci.telecom-paristech.fr/en/), Télécom Paris, Institut Polytechnique de Paris, France
-* [Laboratoire de l'Informatique du Parallélisme (LIP)](http://www.ens-lyon.fr/LIP/), Inria & Ecole Normale Supérieure de Lyon, France
-* [Laboratoire Génie Electrique et Electronique de Paris (GeePs)](http://www.lgep.supelec.fr/), CentraleSupélec - University of Paris-Saclay, France
+* Former affiliated labs: [Bell Labs](https://www.bell-labs.com/), [L2S (Supélec)](http://www.l2s.centralesupelec.fr/), [CERI-LIA (Avignon)](https://lia.univ-avignon.fr/), [LAAS-CNRS (Toulouse)](https://www.laas.fr/public/), [LIP-Inria-ENS (Lyon)](http://www.ens-lyon.fr/LIP/), [GeePs (Supélec)](http://www.lgep.supelec.fr/)
 
 ### Useful tools
 * [Academic Phrasebank (Univ. of Manchester)](http://www.phrasebank.manchester.ac.uk/)
