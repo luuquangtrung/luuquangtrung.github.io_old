@@ -15,7 +15,11 @@ Toulouse, France
 
 
 ## Bio
-I am currently a postdoctoral fellow at the [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. I received a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/). My thesis has also been conducted at [Nokia Bell Labs](https://www.bell-labs.com/), France. My research interests include network modelling, network optimization, resource allocation and orchestration in communication networks.
+Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam); two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now Paris-Saclay University) in 2016, and one another in multimedia networking from Télécom Paris (Institut Polytecnique de Paris) in 2017. He then obtaine his Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/) in 2021. His thesis was also conducted at [Nokia Bell Labs](https://www.bell-labs.com/), France. 
+
+Since March 2021, he has been working as a postdoctoral fellow at the [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
+
+He is also the recipient of the 2022 Best PhD Dissertation Award on Distributed Systems and Networks, awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.cnrs.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/), ACM Special Interest Group on Operating Systems).
 
 ## Contact
 Office:
