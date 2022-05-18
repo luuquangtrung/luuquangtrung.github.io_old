@@ -19,7 +19,7 @@ Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 
 
 Since March 2021, he has been working as a postdoctoral fellow at the [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
 
-<!-- He is also the recipient of the *2022 Best PhD Dissertation Award on Distributed Systems and Networks*, awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.cnrs.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)). -->
+Quang-Trung Luu is the recipient of the *2022 Best PhD Dissertation Award on Distributed Systems and Networks*, awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.cnrs.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
 
 ## Contact
 Office:
