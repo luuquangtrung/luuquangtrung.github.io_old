@@ -2,7 +2,7 @@
 layout: single
 title: "News"
 toc: true
-toc_label: "News"
+toc_label: "Chronological Order"
 toc_icon: "book"
 permalink: /news/
 author_profile: true
