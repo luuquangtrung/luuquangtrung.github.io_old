@@ -37,6 +37,8 @@ E-mails:
 * Oct. 5, 2020: I will be giving a talk at the meeting of the French project *ANR MAESTRO-5G* on my [recent work](https://ieeexplore.ieee.org/document/9187556/) related to resource provisioning for network slicing with coverage constraints. 
 * May 20, 2020: Our paper "*A Coverage-Aware Resource Provisioning Method for Network Slicing*" has been accepted to [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/document/9187556/).
 
+(see all archived news [here](https://luuquangtrung.github.io/news/).)
+
 
 
 <!-- <div class="grid__wrapper">
