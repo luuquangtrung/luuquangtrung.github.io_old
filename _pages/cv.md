@@ -39,8 +39,8 @@ Curriculum vitae: in [english]({{ site.url }}/files/misc/luu_cv_en.pdf), in [fre
 
 ### Attended Summer Schools and Training Programs
 * IBM Data Science Program on Coursera. Completed modules: Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python.
-* 01/2019 - 03/2019: Master's course "Deep Learning for Multimedia", organized by Télécom Paris.
-* 01/04/2019 - 02/04/2019: Mini-course "Statistical Learning: Bagging, Boosting, SVM, Introduction to Neural Networks", organized by Vietnam Institute for Advanced Study in Mathematics (VIASM).
-* 23/07/2018 - 27/07/2018: International Summer School on Deep Learning, organized by University of Genova and IRDTA, Genova, Italy.
+* Master's course "Deep Learning for Multimedia", organized by Télécom Paris (01/2019 - 03/2019).
+* Mini-course "Statistical Learning: Bagging, Boosting, SVM, Introduction to Neural Networks", organized by Vietnam Institute for Advanced Study in Mathematics (01/04/2019 - 02/04/2019).
+* International Summer School on Deep Learning, organized by University of Genova and IRDTA, Genova, Italy (23/07/2018 - 27/07/2018).
 
 
