@@ -22,10 +22,8 @@ author_profile: true
 #### Social Engagement
 * **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) — a Facebook group for Vietnamese researchers in telecommunications. Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ)).
 <!-- * 01/2022-present: volunteer as a translator for [Kính Kính Coong](https://www.facebook.com/groups/327219941478408/about), a project of translating French-Vietnamese and Vietnamese-French letters between godparents and foster children in difficult circumstances in Vietnam -->
-* **Events**
-  * 11/2019: Participant & Presenter, [2nd Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/), Vietnam
-  * 08/2015: Invited Lecturer, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
-  * 08/2014: Participant, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
+* [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
+* [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited lecturer (2015); Participant (2014)
 
 <img src="/images/event_gyvsf2019.jpg" width="800" />
 
