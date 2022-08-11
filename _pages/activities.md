@@ -17,7 +17,7 @@ author_profile: true
 
 #### Reviewer
 * Journals: [IEEE Journal on Selected Areas in Communications](https://www.comsoc.org/publications/journals/ieee-jsac), [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
-* Conferences: [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html)
+* Conferences: [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html), [ATC 2022](https://atc-conf.org/)
 
 #### Social Engagement
 * **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) — a Facebook group for Vietnamese researchers in telecommunications. Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ)).
