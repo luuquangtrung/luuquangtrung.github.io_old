@@ -23,18 +23,22 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US20210392040A1/en)," *US Patent 17,299,138*, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office.
 
 ### Journal papers
-1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," *IEEE Transactions on Network and Service Management*, Mar. 2022 (arXiv: [2203.09367](https://arxiv.org/abs/2203.09367)).
+1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," *IEEE Transactions on Network and Service Management*, Mar. 2022 
+(hal: [hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/), 
+arXiv: [2203.09367](https://arxiv.org/abs/2203.09367)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Uncertainty-Aware Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9351563)," in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021 
-(arXiv: [2006.01104](https://arxiv.org/abs/2006.01104), 
-hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308)).
+(hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308), 
+arXiv: [2006.01104](https://arxiv.org/abs/2006.01104)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "[Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020. 
-(arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3), 
-hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)).
+(hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001),
+arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3)).
 
 ### Conference and workshop papers
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370), arXiv: [2205.01229v1](https://arxiv.org/abs/2205.01229)).
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, “DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," in *Proc. IFIP Networking*, Catania, Italy, June, 2022
+(hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370), 
+arXiv: [2205.01229v1](https://arxiv.org/abs/2205.01229)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 
 (hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)).
@@ -72,7 +76,7 @@ hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-0309700
 1. N. Perrot, M. Antonia, S. Kerboeuf, **Q.-T. Luu**, *et al*., "[Virtual Network Orchestration Framework and Algorithms](https://maestro5g.roc.cnam.fr/)," *ANR MAESTRO-5G Project Deliverable D3.1*, 2020.
 
 ### Theses
-* Q.-T. Luu, [Dynamic Control and Optimization of Wireless Virtual Network](https://hal.archives-ouvertes.fr/tel-03351942), *Ph.D Thesis*, [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2021 ([slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)).
+* Q.-T. Luu, Contrôle et optimisation des réseaux virtuels sans fil (Dynamic Control and Optimization of Wireless Virtual Network), *Ph.D Thesis*, [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2021 ([pdf](https://hal.archives-ouvertes.fr/tel-03351942), [slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)).
 
 * Q.-T. Luu, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2017.
 
