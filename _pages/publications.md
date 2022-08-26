@@ -15,10 +15,8 @@ author_profile: true
 
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 
-### Preprints
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, 
-“Lightweight Schedulers for Minimizing the Number of Late Coflows,” 
-*à soumettre à IEEE Transactions on Parallel and Distributed Systems*, 2022
+<!-- ### Preprints -->
+
 
 ### Patents
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, 
@@ -26,6 +24,10 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 *US Patent 17,299,138*, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office.
 
 ### Journal papers
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, 
+“Lightweight Schedulers for Minimizing the Number of Late Coflows,” 
+*to be submitted to IEEE Transactions on Parallel and Distributed Systems*, 2022
+
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
 *IEEE Transactions on Network and Service Management*, Mar. 2022 
