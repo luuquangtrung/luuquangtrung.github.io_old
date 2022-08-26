@@ -115,16 +115,16 @@ in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. 
 
 ### Softwares
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
-CoflowLib: A library of test instances for coflows in datacenter networks, 
-[Source code](https://github.com/luuquangtrung/CoflowLib), 2022.
+CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
+[[Source code](https://github.com/luuquangtrung/CoflowLib)].
 
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
-CoflowSimulator: Simulator for coflow scheduling and resource allocation, 
-[Source code](https://github.com/luuquangtrung/CoflowSimulator), 2022.
+CoflowSimulator: Simulator for coflow scheduling and resource allocation, 2022 
+[[Source code](https://github.com/luuquangtrung/CoflowSimulator)].
 
 1. **Q.-T. Luu**, 
-SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 
-[Source code](https://github.com/luuquangtrung/SfcEmbedder), 2020.
+SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020 
+[[Source code](https://github.com/luuquangtrung/SfcEmbedder)].
 
 ### Theses
 * Q.-T. Luu, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
