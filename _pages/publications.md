@@ -47,7 +47,7 @@ in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 20
 arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3)).
 
 ### Conference and workshop papers
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, 
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
 in *Proc. IFIP Networking*, Catania, Italy, June, 2022
 (hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370), 
@@ -112,6 +112,19 @@ in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. 
 1. N. Perrot, M. Antonia, S. Kerboeuf, **Q.-T. Luu**, *et al*., 
 "[Virtual Network Orchestration Framework and Algorithms](https://anr.fr/Project-ANR-18-CE25-0012)," 
 *ANR MAESTRO-5G Project Deliverable D3.1*, 2020.
+
+### Softwares
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
+$$\mathtt{CoflowLib}$$—A library of test instances for coflows in datacenter networks, 
+[Source code](https://github.com/luuquangtrung/CoflowLib), 2022.
+
+1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
+$$\mathtt{CoflowLib}$$—Simulator for coflow scheduling and resource allocation, 
+[Source code](https://github.com/luuquangtrung/CoflowSimulator), 2022.
+
+1. **Q.-T. Luu**, 
+$$\mathtt{SfcEmbedder}$$—An ILP-based algorithm to solve the problem of SFC embedding, 
+[Source code](https://github.com/luuquangtrung/SfcEmbedder), 2020.
 
 ### Theses
 * Q.-T. Luu, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
