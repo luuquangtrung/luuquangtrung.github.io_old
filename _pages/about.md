@@ -19,7 +19,7 @@ Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 
 
 Since March 2021, he has been working as a postdoctoral fellow at the [Computer Science Lab, University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) - [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
 
-Quang-Trung Luu is the recipient of the *2022 Best PhD Dissertation Award on Distributed Systems and Networks*, awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.cnrs.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
+<!-- Quang-Trung Luu is the recipient of the *2022 Best PhD Dissertation Award on Distributed Systems and Networks*, awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.cnrs.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)). -->
 
 ## Contact
 Office:
@@ -29,7 +29,7 @@ E-mails:
 &nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
 
 ## Recent news
-* May 16, 2022: Glad and honored to receive the *2022 Best PhD Dissertation Award on Distributed Systems and Networks* by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
+<!-- * May 16, 2022: Glad and honored to receive the *2022 Best PhD Dissertation Award on Distributed Systems and Networks* by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis. -->
 * Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/) (pre-print available in [arxiv](https://arxiv.org/abs/2205.01229)).
 * Mar. 11, 2022: Our paper "*Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties*" has been accepted to [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/abstract/document/9737314).
 * Feb. 16, 2022: Our patent "*Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee*" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US20210392040A1/en)) has been granted by the UK Patent Office.
