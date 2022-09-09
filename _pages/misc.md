@@ -34,9 +34,9 @@ author_profile: true
 * [Academic Gates](https://www.academicgates.com/)
 * Former affiliated labs: [Bell Labs](https://www.bell-labs.com/), [L2S (Supélec)](http://www.l2s.centralesupelec.fr/), [CERI-LIA (Avignon)](https://lia.univ-avignon.fr/), [LAAS-CNRS (Toulouse)](https://www.laas.fr/public/), [LIP-Inria-ENS (Lyon)](http://www.ens-lyon.fr/LIP/), [GeePs (Supélec)](http://www.lgep.supelec.fr/)
 * Orientation professionnelle du GDR-RSD sur la recherche des emplois d'enseignant-chercheur en France:
- * [Comment devenir enseignant.e-chercheur.e ?](https://zoom.us/rec/share/ayGD92WUehBZ8jmf64n87OmsvMforG0qNkzBZdZwa0KdHXpFNmHXdzh6XD4lHavH.g1a9M1Fs-GTEIocJ) ([+ de détails](https://gdr-rsd.fr/?p=1))
- * [Devenir Chercheur.se.s à INRIA](https://zoom.us/rec/share/H7Jha-V9wGA3E93kb8cD2QDDCpG2ftX0KxQERHSYluaKAp6_mqh_xecNisdQexvt.yEGyeeUV-MGqy3Y6) ([+ de détails](https://gdr-rsd.fr/?p=215))
- * [Devenir Chercheur.se.s au CNRS](https://zoom.us/rec/share/R8vpdcLnOZTfB3gFkB_5s-oynec6GYvH_arE3ocnubaK0JQg1P7GI7xLxoQd15i-.wbem2LU2zqJJWZi5) ([+ de détails](https://gdr-rsd.fr/?p=217))
+  * [Comment devenir enseignant.e-chercheur.e ?](https://zoom.us/rec/share/ayGD92WUehBZ8jmf64n87OmsvMforG0qNkzBZdZwa0KdHXpFNmHXdzh6XD4lHavH.g1a9M1Fs-GTEIocJ) ([+ de détails](https://gdr-rsd.fr/?p=1))
+  * [Devenir Chercheur.se.s à INRIA](https://zoom.us/rec/share/H7Jha-V9wGA3E93kb8cD2QDDCpG2ftX0KxQERHSYluaKAp6_mqh_xecNisdQexvt.yEGyeeUV-MGqy3Y6) ([+ de détails](https://gdr-rsd.fr/?p=215))
+  * [Devenir Chercheur.se.s au CNRS](https://zoom.us/rec/share/R8vpdcLnOZTfB3gFkB_5s-oynec6GYvH_arE3ocnubaK0JQg1P7GI7xLxoQd15i-.wbem2LU2zqJJWZi5) ([+ de détails](https://gdr-rsd.fr/?p=217))
 
 ### Useful tools
 * [Academic Phrasebank (Univ. of Manchester)](http://www.phrasebank.manchester.ac.uk/) <!-- * [Prof. Nguyen Van Tuan's some guides on writing academic papers](http://tuanvannguyen.blogspot.fr/)  -->
