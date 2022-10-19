@@ -31,7 +31,7 @@ in [french]({{ site.url }}/files/misc/luu_cv_fr.pdf)
 * High school diploma, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Hanoi, Vietnam (2005-2008)
 
 ### Honors, Awards, Grants
-* Best PhD Dissertation Award on Distributed Systems and Networks, awarded by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.cnrs.fr/) and [ACM SigOps France](http://www.sigops-france.fr/).
+* Best PhD Dissertation Award on Distributed Systems and Networks, awarded by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/).
 * ENSA Publication Award, by [Nokia Bell Labs](https://www.bell-labs.com/), Oct. 2020
 * Travel Grant, by the [Global Young Vietnamese Scholars Network](http://trithuctrevietnam.vn/), Dec. 2019 <!-- * Nokia France Student Award (finalist), by [Nokia France](https://www.nokia.com/fr_int/), July 2019 -->
 * [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by [IEEE Communications Society](https://www.comsoc.org/), Dec. 2018
