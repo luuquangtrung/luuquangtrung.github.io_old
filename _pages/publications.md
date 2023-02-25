@@ -20,8 +20,8 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 ### Patents
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, 
-"[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US20210392040A1/en)," 
-*US Patent 17,299,138*, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office.
+"[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee]([https://patents.google.com/patent/US20210392040A1/en](https://patents.google.com/patent/US11431562B2/en))," 
+*US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ### Journal papers
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, 
