@@ -29,7 +29,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 *to be submitted to IEEE Transactions on Parallel and Distributed Systems*, 2022
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
-"[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranted SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
+"[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
 *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022
 (hal: [hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/), 
 arXiv: [2203.09367](https://arxiv.org/abs/2203.09367)).
