@@ -30,7 +30,7 @@ E-mails:
 
 ## Recent news
 * Feb. 1, 2023: Glad and honored to receive the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
-* Jan. 31, 2023: Our patent "*Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee*" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US11570043B2/en) has been granted by the US Patent Office.
+* Jan. 31, 2023: Our patent "*Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee*" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US11570043B2/en)) has been granted by the US Patent Office.
 * Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/) (pre-print available in [arxiv](https://arxiv.org/abs/2205.01229)).
 * Mar. 11, 2022: Our paper "*Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties*" has been accepted to [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/abstract/document/9737314).
 * Jan. 13, 2021: I did a short [interview with VOV World](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/mang-di-dong-5g-co-hoi-phat-trien-cong-nghiep-vien-thong-tai-viet-nam-938761.vov) (The Voice of Vietnam) on recent development of 5G networks.
