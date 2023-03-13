@@ -24,9 +24,9 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ### Journal papers
-1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini, and B.-J. Prabhu, 
-“Lightweight Schedulers for Minimizing the Number of Late Coflows,” 
-*to be submitted to IEEE Transactions on Parallel and Distributed Systems*, 2022
+1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
+“Weighted Scheduling of Time-Sensitive Coflows,” 
+*to be submitted to IEEE Transactions on Parallel and Distributed Systems*, 2023
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
