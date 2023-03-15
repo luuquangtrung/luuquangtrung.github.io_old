@@ -27,7 +27,7 @@ in [french]({{ site.url }}/files/misc/luu_cv_fr.pdf)
 * Ph.D in Networking, Information, and Communications, [CentraleSupélec](https://www.centralesupelec.fr/) & University of Paris-Sud (Paris XI, now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), Paris, France (2017-2020)
 * M.Sc. in Multimedia Networking, [Télécom Paris](https://www.telecom-paris.fr/), Paris, France (2016-2017)
 * M.Sc. in Antennas and Telecom Devices, University of Paris-Sud (Paris XI, now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), Orsay, France (2015-2016)
-* B.Eng. in Electronics and Telecommunications, [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Hanoi, Vietnam (2008-2015)
+* B.Eng. in Electronics and Telecommunications, [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Hanoi, Vietnam (2008-2013)
 * High school diploma, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Hanoi, Vietnam (2005-2008)
 
 ### Honors, Awards, Grants
