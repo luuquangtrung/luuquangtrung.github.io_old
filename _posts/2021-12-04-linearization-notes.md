@@ -16,6 +16,8 @@ tags:
 
 Linear programming (LP) is the minimization of a linear form on a polyhedron[^Dantzig1955]. The standard form of an LP is
 
+
+{% capture notice-text %}
 $$
 \begin{align*}
 \min & \quad c^\top x \\
@@ -23,6 +25,7 @@ $$
      & \quad x \geq 0,
 \end{align*}
 $$
+{% endcapture %}
 
 where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\times}n$$-matrix of coefficients. LP has been shown[^Liberti2018] to be fell into the computational complexity class **P**. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be **NP**-hard[^Liberti2018].  
 
