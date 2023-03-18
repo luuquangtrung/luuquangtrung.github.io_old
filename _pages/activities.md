@@ -39,6 +39,11 @@ author_profile: true
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
 * [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited Lecturer (2015); Participant (2014)
+
+<img src="/images/event_gyvsf2019.jpg" width="800" />
+
+<img src="/images/event_vsss2015.jpg" width="800" />
+
 {% endcapture %}
 
 <div class="notice--success">
@@ -49,9 +54,7 @@ author_profile: true
 
 <!-- * 01/2022-present: volunteer as a translator for [Kính Kính Coong](https://www.facebook.com/groups/327219941478408/about), a project of translating French-Vietnamese and Vietnamese-French letters between godparents and foster children in difficult circumstances in Vietnam -->
 
-<img src="/images/event_gyvsf2019.jpg" width="800" />
 
-<img src="/images/event_vsss2015.jpg" width="800" />
 
 <!--
 <img src="http://....jpg" width="200" height="200" />
