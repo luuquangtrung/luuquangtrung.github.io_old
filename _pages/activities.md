@@ -8,7 +8,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-<!-- #### Technical Program Committee Member -->
+#### Technical Program Committee Member
 {% capture notice-text %}
 * International Symposium on Information and Communication Technology (SoICT): [2022](https://soict.org/)
 * Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel): [2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr)
@@ -17,26 +17,24 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Technical Program Committee Member</h4>
   {{ notice-text | markdownify }}
 </div>
 
 
 
-<!-- #### Reviewer -->
+#### Reviewer
 {% capture notice-text %}
 * Journals: [IEEE Journal on Selected Areas in Communications](https://www.comsoc.org/publications/journals/ieee-jsac), [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
 * Conferences: [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html), [ATC 2022](https://atc-conf.org/)
 {% endcapture %}
 
 <div class="notice--warning">
-  <h4 class="no_toc">Reviewer</h4>
   {{ notice-text | markdownify }}
 </div>
 
 
 
-<!-- #### Social Engagement -->
+#### Social Engagement
 {% capture notice-text %}
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
@@ -44,7 +42,6 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Social Engagement</h4>
   {{ notice-text | markdownify }}
 </div>
 
