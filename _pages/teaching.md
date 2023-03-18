@@ -8,10 +8,9 @@ classes: wide
 
 <!-- <small>Note: TD = *travaux dirigés* (exercise sessions/tutorials), TP = *travaux pratiques* (lab sessions), CM = *cours magistraux* (lectures)</small> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 {% capture notice-text %}
-$$
 * *Digital Communications*, [M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Paris-Saclay University, AY 2020-2021.
 * *Scientific Project*, [M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Paris-Saclay University and Insitut Polytechnique de Paris, AY 2020-2021 and 2021-2022.
 {% endcapture %}
