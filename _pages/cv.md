@@ -11,8 +11,7 @@ author_profile: true
 
 <!-- *Last updated: Apr. 21, 2022* -->
 
-{: .notice--info} **Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) 
-(last updated: Apr. 21, 2022)
+**Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022) {: .notice--info}
 
 <!-- ### Experiences -->
 
@@ -24,8 +23,8 @@ author_profile: true
 * Engineer, [Viettel Network](https://viettel.com.vn/), Hanoi, Vietnam (Aug. 2013 - Aug. 2014)
 {% endcapture %}
 
-<div class="notice--warning">
-  <h3 class="no_toc">Experiences</h3>
+<div class="notice--success">
+  <h4 class="toc">Experiences</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -40,8 +39,8 @@ author_profile: true
 * High school diploma, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Hanoi, Vietnam (2005-2008)
 {% endcapture %}
 
-<div class="notice--warning">
-  <h3 class="no_toc">Education</h3>
+<div class="notice--success">
+  <h4 class="toc">Education</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -58,8 +57,8 @@ author_profile: true
 * Student Research Prize (first runner-up), by the [Hanoi University of Science and Technology](https://hust.edu.vn/), May 2013
 {% endcapture %}
 
-<div class="notice--warning">
-  <h3 class="no_toc">Honors, Awards, Grants</h3>
+<div class="notice--success">
+  <h4 class="toc">Honors, Awards, Grants</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -73,7 +72,7 @@ author_profile: true
 * **International Summer School on Deep Learning**, organized by University of Genova and IRDTA, Genova, Italy (23/07/2018 - 27/07/2018).
 {% endcapture %}
 
-<div class="notice--warning">
-  <h3 class="no_toc">Attended Summer Schools and Training Programs</h3>
+<div class="notice--success">
+  <h4 class="toc">Attended Summer Schools and Training Programs</h4>
   {{ notice-text | markdownify }}
 </div>
