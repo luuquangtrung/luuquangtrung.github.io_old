@@ -40,7 +40,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 {% capture notice-text %}
 1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
 “Weighted Scheduling of Time-Sensitive Coflows,” 
-*to be submitted to IEEE Transactions on Parallel and Distributed Systems*, 2023
+*submitted to IEEE Transactions on Parallel and Distributed Systems*, 2023
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
