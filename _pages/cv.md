@@ -20,8 +20,7 @@ author_profile: true
 </div>
 
 
-<!-- ### Experiences -->
-
+### Experiences
 {% capture notice-text %}
 * Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France (Mar. 2021 - Mar. 2022)
 * Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France (Nov. 2017 - Nov. 2020)
@@ -31,13 +30,11 @@ author_profile: true
 {% endcapture %}
   
 <div class="notice--success">
-  <h4 class="no_toc">Experiences</h4>
   {{ notice-text | markdownify }}
 </div>
 
 
-<!-- ### Education -->
-
+### Education
 {% capture notice-text %}
 * Ph.D in Networking, Information, and Communications, [CentraleSupélec](https://www.centralesupelec.fr/) & University of Paris-Sud (Paris XI, now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), Paris, France (2017-2020)
 * M.Sc. in Multimedia Networking, [Télécom Paris](https://www.telecom-paris.fr/), Paris, France (2016-2017)
@@ -47,13 +44,11 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Education</h4>
   {{ notice-text | markdownify }}
 </div>
 
 
-<!-- ### Honors, Awards, Grants -->
-
+### Honors, Awards, Grants
 {% capture notice-text %}
 * Best PhD Dissertation Award on Distributed Systems and Networks, awarded by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/).
 * ENSA Publication Award, by [Nokia Bell Labs](https://www.bell-labs.com/), Oct. 2020
@@ -65,13 +60,11 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Honors, Awards, Grants</h4>
   {{ notice-text | markdownify }}
 </div>
 
 
-<!-- ### Attended Summer Schools and Training Programs -->
-
+### Attended Summer Schools and Training Programs
 {% capture notice-text %}
 * **IBM Data Science Program on Coursera**. Completed modules: Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python.
 * **Master's course "Deep Learning for Multimedia"**, organized by Télécom Paris (01/2019 - 03/2019).
@@ -80,6 +73,5 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Attended Summer Schools and Training Programs</h4>
   {{ notice-text | markdownify }}
 </div>
