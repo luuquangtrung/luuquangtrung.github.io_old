@@ -19,7 +19,7 @@ author_profile: true
 * Modeling of integer linear program (ILP) and design of heuristics for network optimization problems
 {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
   {{ notice-text | markdownify }}
 </div>
 
@@ -28,7 +28,7 @@ author_profile: true
 My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
 {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
   {{ notice-text | markdownify }}
 </div>
 
@@ -43,7 +43,7 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 * Hanoi University of Science and Techology (Hanoi, Vietnam): [Y. Van-Vu](https://www.researchgate.net/profile/Yem-Vu), [M. Ta-Cao](https://www.gel.usherbrooke.ca/e-TESC/?page_id=202), [B.-H. Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)
 {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
   {{ notice-text | markdownify }}
 </div>
 
@@ -53,6 +53,6 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 * Jobayer Morshed and Abdel Ouahd Alouane (master students at Institut Polytechnique de Paris): *Scheduling coflows in datacenter networks* (11/2021-04/2022)
 {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
   {{ notice-text | markdownify }}
 </div>
