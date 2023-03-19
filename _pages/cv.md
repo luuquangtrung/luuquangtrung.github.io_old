@@ -11,7 +11,14 @@ author_profile: true
 
 <!-- *Last updated: Apr. 21, 2022* -->
 
-**Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022) {: .notice--info}
+{% capture notice-text %}
+**Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022)
+{% endcapture %}
+
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
+
 
 <!-- ### Experiences -->
 
@@ -24,7 +31,7 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="toc">Experiences</h4>
+  <h4 class="no_toc">Experiences</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -40,7 +47,7 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="toc">Education</h4>
+  <h4 class="no_toc">Education</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -58,7 +65,7 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="toc">Honors, Awards, Grants</h4>
+  <h4 class="no_toc">Honors, Awards, Grants</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -73,6 +80,6 @@ author_profile: true
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="toc">Attended Summer Schools and Training Programs</h4>
+  <h4 class="no_toc">Attended Summer Schools and Training Programs</h4>
   {{ notice-text | markdownify }}
 </div>
