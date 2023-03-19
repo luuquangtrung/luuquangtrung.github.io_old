@@ -15,7 +15,7 @@ author_profile: true
 **Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022)
 {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--warning">
   {{ notice-text | markdownify }}
 </div>
 
