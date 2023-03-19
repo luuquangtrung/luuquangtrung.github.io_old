@@ -23,16 +23,15 @@ author_profile: true
 <!-- ### Experiences -->
 
 {% capture notice-text %}
-### Experiences
 * Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France (Mar. 2021 - Mar. 2022)
 * Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France (Nov. 2017 - Nov. 2020)
 * Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France (Apr. 2017 - Sept. 2017)
 * Engineer, [Samsung Mobile R&D Center](https://www.samsung.com/us/), Hanoi, Vietnam (Jan. 2015 - June 2015)
 * Engineer, [Viettel Network](https://viettel.com.vn/), Hanoi, Vietnam (Aug. 2013 - Aug. 2014)
 {% endcapture %}
-
-<!--   <h4 class="no_toc">Experiences</h4> -->
+  
 <div class="notice--success">
+  <h4 class="no_toc">Experiences</h4>
   {{ notice-text | markdownify }}
 </div>
 
