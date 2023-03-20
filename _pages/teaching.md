@@ -12,10 +12,10 @@ classes: wide
 
 {% capture notice-text %}
 **Teaching Assistant**, Hanoi University of Science and Technology, AY2022-2023
-1. **Fundamentals of data communications** (Fall 2022) : The course aims to introduce the basic knowledge of communication
+1. **Fundamentals of data communications** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : The course aims to introduce the basic knowledge of communication
 networks and the main problems in communication networks such as : routing; flow and congestion control; basic methods for
 modeling and evaluating network performance.
-1. **Computer networks** (Fall 2022) : This course provides elemental knowledge of computer network and Internet, the charac-
+1. **Computer networks** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : This course provides elemental knowledge of computer network and Internet, the charac-
 teristics and mechanism of computer networks in range from the link to the transport layer.
 
 **Teaching Assistant**, Paris-Saclay University, AY2020-2021
