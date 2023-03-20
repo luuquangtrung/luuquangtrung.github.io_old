@@ -23,7 +23,6 @@ author_profile: true
   {{ notice-text | markdownify }}
 </div> -->
 
-### Publications
 {% capture notice-text %}
 My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
 {% endcapture %}
