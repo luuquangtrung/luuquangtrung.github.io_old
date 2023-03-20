@@ -33,7 +33,7 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 
 ### Collaborators
 {% capture notice-text %}
-* **VinUniversity** (Hanoi, Vietnam): [Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/)
+* **VinUniversity** (Hanoi, Vietnam): [V.-D. Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/)
 * **LAAS-CNRS** (Toulouse, France): [O. Brun](https://homepages.laas.fr/brun/), [B. J. Prabhu](https://homepages.laas.fr/bala/)
 * **University of Avignon** (Avignon, France): [‪R. El-Azouzi‬](http://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en), [F. De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en)
 * **Paris-Saclay University** (Paris, France): [M. Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel), [A. Mouradian](https://scholar.google.com/citations?hl=fr&user=ADWSU9YAAAAJ&view_op=list_works&sortby=pubdate), [A. Diet](https://cv.archives-ouvertes.fr/antoine-diet), [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan), [L. Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon)
@@ -53,8 +53,8 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 1. **Truong Tuan Vu** (VinUniversity, 2023/03-present, co-supervise with [Prof. Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/). Topic: Resouce allocation for network slicing in open radio access network (O-RAN).
 
 **Master's Students**
-1. **Xavier Goeman and Carlos Guzman** (master students at Institut Polytechnique de Paris): *Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services*. (11/2020-04/2021)
-1. **Jobayer Morshed and Abdel Ouahd Alouane** (master students at Institut Polytechnique de Paris): *Scheduling coflows in datacenter networks* (11/2021-04/2022)
+1. **Xavier Goeman and Carlos Guzman** (master's students at Institut Polytechnique de Paris): *Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services*. (11/2020-04/2021)
+1. **Jobayer Morshed and Abdel Ouahd Alouane** (master's students at Institut Polytechnique de Paris): *Scheduling coflows in datacenter networks* (11/2021-04/2022)
 {% endcapture %}
 
 <div class="notice--success">
