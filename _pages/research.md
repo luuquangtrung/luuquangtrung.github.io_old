@@ -47,7 +47,7 @@ author_profile: true
   {{ notice-text | markdownify }}
 </div>
 
-### Supervision:
+### Supervision
 {% capture notice-text %}
 **Doctoral Students**
 1. **Truong Tuan Vu** (VinUniversity, 2023/03-present, co-supervise with [Prof. Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/). Topic: Resouce allocation for network slicing in open radio access network (O-RAN).
