@@ -50,7 +50,7 @@ author_profile: true
 ### Supervision
 {% capture notice-text %}
 **Doctoral Students**
-1. **Truong Tuan Vu** (VinUniversity, 2023/03--present, co-supervise with [Prof. Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/). Topic: Resouce allocation for network slicing in open radio access network (O-RAN).
+1. **Truong Tuan Vu** (VinUniversity, 03/2023--present, co-supervise with [Prof. Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/). Topic: Resouce allocation for network slicing in open radio access network (O-RAN).
 
 **Master's Students**
 1. **Xavier Goeman and Carlos Guzman** (Institut Polytechnique de Paris, 11/2020--04/2021). Topic: Modeling and implementation of embedding algorithms for network slices dedicated to multimedia services. 
