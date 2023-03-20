@@ -34,6 +34,7 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 
 ### Collaborators
 {% capture notice-text %}
+* **VinUniversity** (Hanoi, Vietnam): [Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/)
 * **LAAS-CNRS** (Toulouse, France): [O. Brun](https://homepages.laas.fr/brun/), [B. J. Prabhu](https://homepages.laas.fr/bala/)
 * **University of Avignon** (Avignon, France): [‪R. El-Azouzi‬](http://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en), [F. De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en)
 * **Paris-Saclay University** (Paris, France): [M. Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel), [A. Mouradian](https://scholar.google.com/citations?hl=fr&user=ADWSU9YAAAAJ&view_op=list_works&sortby=pubdate), [A. Diet](https://cv.archives-ouvertes.fr/antoine-diet), [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan), [L. Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon)
