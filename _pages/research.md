@@ -24,7 +24,7 @@ author_profile: true
 </div> -->
 
 {% capture notice-text %}
-My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
+**Publications**: My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
 {% endcapture %}
 
 <div class="notice--warning">
