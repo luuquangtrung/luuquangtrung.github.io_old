@@ -12,7 +12,7 @@ author_profile: true
 <!-- *Last updated: Apr. 21, 2022* -->
 
 {% capture notice-text %}
-**Download**: [luu_cv_en.pdf]({{ site.url }}/files/misc/luu_cv_en.pdf), [luu_cv_fr.pdf]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022)
+**Download**: [CV in english]({{ site.url }}/files/misc/luu_cv_en.pdf), [CV en français]({{ site.url }}/files/misc/luu_cv_fr.pdf) (last updated: Apr. 21, 2022)
 {% endcapture %}
 
 <div class="notice--warning">
