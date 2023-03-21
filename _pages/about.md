@@ -24,28 +24,20 @@ Quang-Trung Luu is the recipient of the [*2022 Best PhD Dissertation Award on Di
 His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
 
 ## Research interests
-* Networking: 5G & beyond, network modelling, network optimization, resource allocation and orchestration, flow scheduling
-* Intelligence: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
-* Computing: Cloud computing, edge computing, datacenter networking
+* **Networking**: 5G & beyond, network optimization, resource allocation and orchestration, flow scheduling
+* **Intelligence**: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
+* **Computing**: Cloud computing, edge computing, datacenter networking
 
 
-<!-- ## Contact -->
-{% capture notice-text %}
+## Contact
 Office:
 &nbsp;&nbsp;&nbsp; Équipe SARA, LAAS-CNRS, 7 avenue du Colonel Roche, 31400 Toulouse, France\
 E-mails:
 &nbsp;&nbsp;qtluu [at] laas [dot] fr (work);
 &nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
-{% endcapture %}
-
-<div class="notice--warning">
-  <h4 class="no_toc">Contact</h4>
-  {{ notice-text | markdownify }}
-</div>
 
 
-<!-- ## Recent news -->
-{% capture notice-text %}
+## Recent news
 * Feb. 1, 2023: Glad and honored to receive the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
 * Jan. 31, 2023: Our patent "*Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee*" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US11570043B2/en)) has been granted by the US Patent Office.
 * Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/) (pre-print available in [arxiv](https://arxiv.org/abs/2205.01229)).
@@ -56,13 +48,6 @@ E-mails:
 * May 20, 2020: Our paper "*A Coverage-Aware Resource Provisioning Method for Network Slicing*" has been accepted to [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/document/9187556/).
 
 (chronological news are archived [here](https://luuquangtrung.github.io/news/)).
-{% endcapture %}
-
-<div class="notice--success">
-  <h4 class="no_toc">Recent news</h4>
-  {{ notice-text | markdownify }}
-</div>
-
 
 
 
