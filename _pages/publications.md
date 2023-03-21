@@ -192,7 +192,7 @@ SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020
 *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2017.
 
 * Q.-T. Luu, Wireless Power Transfer for Implantable Medical Devices, 
-*M.Sc Thesis*, University of Paris-Sud (now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), 2016.
+*M.Sc Thesis*, University of Paris-Sud (Paris 11, now [Paris-Saclay University](https://www.universite-paris-saclay.fr/)), 2016.
 {% endcapture %}
 
 <div class="notice--success">
