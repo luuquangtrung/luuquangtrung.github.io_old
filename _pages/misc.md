@@ -11,8 +11,8 @@ author_profile: true
  
 ### Top-tier telecom and networking journals
 {% capture notice-text %}
-* Journals:
-  * IEEE Transactions: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
+* **Journals**:
+  * **IEEE Transactions**: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
  [Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5497975), 
  [Cloud Computing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), 
  [Network and Service Management](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), 
@@ -21,14 +21,14 @@ author_profile: true
   * [IEEE/ACM Transactions on Networking](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) 
   * [IEEE Journal on Selected Areas in Communications](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) 
   * [IEEE Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593426) 
-  * ScienceDirect: [Computer Networks](http://www.sciencedirect.com/science/journal/aip/13891286), 
+  * **ScienceDirect**: [Computer Networks](http://www.sciencedirect.com/science/journal/aip/13891286), 
 [Ad Hoc Networks](http://www.sciencedirect.com/science/journal/15708705?sdc=1)
-* Letters: [IEEE Wireless Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6065724),
+* **Letters**: [IEEE Wireless Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6065724),
 [IEEE Communications Letters](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5534602) 
-* Magazines: [IEEE Communications Magazine](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593423),
+* **Magazines**: [IEEE Communications Magazine](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593423),
 [IEEE Network](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593428), 
 [IEEE Spectrum](https://spectrum.ieee.org/) 
-* Surveys: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
+* **Surveys**: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
 {% endcapture %}
 
 <div class="notice--success">
