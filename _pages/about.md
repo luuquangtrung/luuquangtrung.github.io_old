@@ -14,7 +14,8 @@ Postdoctoral fellow, [LAAS-CNRS](https://www.laas.fr/public/)\
 Toulouse, France
 
 
-## Bio
+<!-- ## Bio -->
+{% capture notice-text %}
 Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam); two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now Paris-Saclay University) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017. He then obtained a Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French National Association for Research in Technology (ANRT)](https://www.anrt.asso.fr/fr). 
 
 He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. 
@@ -22,15 +23,44 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
 Quang-Trung Luu is the recipient of the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/), awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
 
 His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
+{% endcapture %}
 
-## Contact
+<div class="notice--success">
+  <h2 class="no_toc">Bio</h2>
+  {{ notice-text | markdownify }}
+</div>
+
+
+{% capture notice-text %}
+* Networking: 5G & beyond, network modelling, network optimization, resource allocation and orchestration, flow scheduling
+* Intelligence: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
+* Computing: Cloud computing, edge computing, datacenter networking
+
+{% endcapture %}
+
+<div class="notice--warning">
+  <h2 class="no_toc">Research interests</h2>
+  {{ notice-text | markdownify }}
+</div>
+
+
+<!-- ## Contact -->
+{% capture notice-text %}
 Office:
 &nbsp;&nbsp;&nbsp; Équipe SARA, LAAS-CNRS, 7 avenue du Colonel Roche, 31400 Toulouse, France\
 E-mails:
 &nbsp;&nbsp;qtluu [at] laas [dot] fr (work);
 &nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
+{% endcapture %}
 
-## Recent news
+<div class="notice--warning">
+  <h2 class="no_toc">Contact</h2>
+  {{ notice-text | markdownify }}
+</div>
+
+
+<!-- ## Recent news -->
+{% capture notice-text %}
 * Feb. 1, 2023: Glad and honored to receive the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
 * Jan. 31, 2023: Our patent "*Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee*" with Nokia Bell Labs (available at [Google Patents](https://patents.google.com/patent/US11570043B2/en)) has been granted by the US Patent Office.
 * Apr. 1, 2022: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to be presented at [IFIP Networking 2022](https://networking.ifip.org/2022/) (pre-print available in [arxiv](https://arxiv.org/abs/2205.01229)).
@@ -41,6 +71,13 @@ E-mails:
 * May 20, 2020: Our paper "*A Coverage-Aware Resource Provisioning Method for Network Slicing*" has been accepted to [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/document/9187556/).
 
 (chronological news are archived [here](https://luuquangtrung.github.io/news/)).
+{% endcapture %}
+
+<div class="notice--success">
+  <h2 class="no_toc">Recent news</h2>
+  {{ notice-text | markdownify }}
+</div>
+
 
 
 
