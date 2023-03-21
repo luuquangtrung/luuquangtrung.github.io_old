@@ -183,15 +183,15 @@ SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020
 
 ### Theses
 {% capture notice-text %}
-* Q.-T. Luu, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
+* **Q.-T. Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
 *Ph.D Thesis*, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2021 
 ([2022 Best PhD Dissertation Award on Distributed Systems and Networks by GDR-RSD](https://gdr-rsd.fr/laureats-prix-de-these-2022/))
 [[pdf](https://hal.archives-ouvertes.fr/tel-03351942), [slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)].
 
-* Q.-T. Luu, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, 
+* **Q.-T. Luu**, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, 
 *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2017.
 
-* Q.-T. Luu, Wireless Power Transfer for Implantable Medical Devices, 
+* **Q.-T. Luu**, Wireless Power Transfer for Implantable Medical Devices, 
 *M.Sc Thesis*, University of Paris-Sud (Paris 11, now [Paris-Saclay University](https://www.universite-paris-saclay.fr/)), 2016.
 {% endcapture %}
 
