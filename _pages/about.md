@@ -14,8 +14,7 @@ Postdoctoral fellow, [LAAS-CNRS](https://www.laas.fr/public/)\
 Toulouse, France
 
 
-<!-- ## Bio -->
-{% capture notice-text %}
+## Bio
 Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam); two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now Paris-Saclay University) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017. He then obtained a Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French National Association for Research in Technology (ANRT)](https://www.anrt.asso.fr/fr). 
 
 He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. 
@@ -23,25 +22,11 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
 Quang-Trung Luu is the recipient of the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/), awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
 
 His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
-{% endcapture %}
 
-<div class="notice--success">
-  <h2 class="no_toc">Bio</h2>
-  {{ notice-text | markdownify }}
-</div>
-
-
-{% capture notice-text %}
+## Research interests
 * Networking: 5G & beyond, network modelling, network optimization, resource allocation and orchestration, flow scheduling
 * Intelligence: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
 * Computing: Cloud computing, edge computing, datacenter networking
-
-{% endcapture %}
-
-<div class="notice--warning">
-  <h2 class="no_toc">Research interests</h2>
-  {{ notice-text | markdownify }}
-</div>
 
 
 <!-- ## Contact -->
@@ -54,7 +39,7 @@ E-mails:
 {% endcapture %}
 
 <div class="notice--warning">
-  <h2 class="no_toc">Contact</h2>
+  <h4 class="no_toc">Contact</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -74,7 +59,7 @@ E-mails:
 {% endcapture %}
 
 <div class="notice--success">
-  <h2 class="no_toc">Recent news</h2>
+  <h4 class="no_toc">Recent news</h4>
   {{ notice-text | markdownify }}
 </div>
 
