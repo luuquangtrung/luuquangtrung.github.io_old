@@ -1,5 +1,5 @@
 ---
-title: "Patent GB2591973 has been granted"
+title: "PhD Dissertation Award"
 date: 2022-02-16
 permalink: /posts/2022/02/patent-GB2591973-granted/ 
 read_time: false
