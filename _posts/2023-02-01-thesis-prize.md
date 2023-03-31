@@ -15,10 +15,11 @@ tags:
 **Good news!** Glad and honored to receive the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
 {: .notice--warning}
 
+![Thesis-Prize](/files/post_materials/prix_gdr-rsd.png)
 
 <!-- **Reference** -->
 {% capture notice-text %}
-My thesis: **Q.-T. Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
+**Q.-T. Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
 *Ph.D Thesis*, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2021 [[pdf](https://hal.archives-ouvertes.fr/tel-03351942), [slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)].
 {% endcapture %}
 
@@ -43,6 +44,3 @@ The committee also highlights the quality of the doctoral student's scientific p
   <h4 class="no_toc">Announcement of GDR-RSD</h4>
   {{ notice-text | markdownify }}
 </div>
-
-
-![Thesis-Prize](/files/post_materials/prix_gdr-rsd.png)
