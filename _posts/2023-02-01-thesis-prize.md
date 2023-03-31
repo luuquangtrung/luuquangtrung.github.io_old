@@ -6,7 +6,7 @@ read_time: false
 categories:
   - blog
 header:
-  teaser: /files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg
+  teaser: /files/post_materials/prix_gdr-rsd.png
 tags:
   - PhD dissertation
   - Prize
