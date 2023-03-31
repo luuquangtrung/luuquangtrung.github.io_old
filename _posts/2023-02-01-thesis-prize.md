@@ -1,7 +1,7 @@
 ---
 title: "PhD Dissertation Award"
 date: 2022-02-16
-permalink: /posts/2022/02/patent-GB2591973-granted/ 
+permalink: /posts/2023/02/phd-thesis-prize/ 
 read_time: false
 categories:
   - blog
